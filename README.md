@@ -56,10 +56,3 @@ Achievements & Competitive Programming
 GitHub stats & languages
 - GitHub stats: https://github-readme-stats.vercel.app/api?username=Pranav-24006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true  
 - Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-24006&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true
-
----
-
-If you want, I can:
-- Fix image links or add icons (I recommend using shield badges or proper icon URLs).  
-- Convert the Featured Projects section into a table.  
-- Shorten or expand any section.
